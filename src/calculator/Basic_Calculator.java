@@ -36,17 +36,10 @@ public class Basic_Calculator {
                 break;
             default:
                 System.out.println("You have entered wrong information");
+         }
         
-            
         }
-        
-        
-        
-        
     }
-    
-}
 
     }
-    
-}
+    }
